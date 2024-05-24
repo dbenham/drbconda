@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dbenham/drbconda/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dbenham/drbconda/HEAD?filepath=index.ipynb)
 
 A Binder-compatible repo with an `environment.yml` file.
 
